@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+          <p>To: {transactionData.to}</p>
+          <p>From: {transactionData.from}</p>
+          <p>Block Number: {transactionData.blockNumber}</p>
+          <p>Contract Address: {transactionData.contractAddress}</p>
+          <p>Gas Used: {transactionData.gasUsed}</p>
+          <p>Gas Price: {transactionData.gasPrice}</p>
+          <p>Cumulative Gas Used: {transactionData.cumulativeGasUsed}</p>
+          <p>Status: {transactionData.status}</p>
+        
